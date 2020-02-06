@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "name": "com.hgk.custompakage",
+    "name": "com.hgk.custompackage",
     "displayName": "HGK CustomPackage",
     "unity": "2019.3",
     "description": "Testing the custom package",
